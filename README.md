@@ -3,7 +3,10 @@
 Este repositorio contiene una serie de ejercicios de repaso sobre conceptos básicos sobre la programación en python. Estos son los siguienntes ejercicios:
 
 1.Cree una clase Vehículo que contenga los atributos de instancia velocidad_maxima y kilometraje.
+
+
 2. Cree una clase Punto que represente un punto en el plano cartesiano.
+
 3. A la clase del punto anterior, defínale los siguientes métodos:
 - Un método mostrar que imprima por consola las coordenadas del punto
 - Un método mover que cambie las coordenadas del punto
